@@ -180,7 +180,7 @@
         <visual name="visual">
           <geometry>
             <box>
-              <size>0.1 0.1 0.02</size>
+              <size>0.35 0.35 0.02</size>
             </box>
           </geometry>
           <material>
